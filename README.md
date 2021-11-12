@@ -13,3 +13,5 @@ The animations in the FAQ section has been made using the concepts of Javascript
 * HTML
 * CSS
 * JavaScript
+
+Here is the link: https://elixir14082002.github.io/Netflix-Landing-Page/
